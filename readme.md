@@ -25,5 +25,5 @@
 
 Запустите скрипт командой 
  ```bash
- 'python vk_data.py'
+ python vk_data.py
 
