@@ -8,7 +8,7 @@ import os
 
 user_id = "203083218"
 output_file = "vk_data.json"
-access_token = "TOKEN"
+
 # Функция для выполнения запроса к VK API
 def vk_request(method, access_token, params=None):
     url = f"https://api.vk.com/method/{method}"
