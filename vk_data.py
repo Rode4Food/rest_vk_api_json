@@ -6,7 +6,7 @@ import json
 import os
 
 
-user_id = "203083218"
+user_id = ""
 output_file = "vk_data.json"
 
 # Функция для выполнения запроса к VK API
